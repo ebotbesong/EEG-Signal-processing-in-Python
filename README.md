@@ -15,15 +15,4 @@ Working with EEG (electroencephalography) data is hard, and this little library 
 
 3. EEGrunt makes it easy to generate signal plots, amplitude trend graphs, spectrograms, and FFT (fast-fouier transform) graphs, etc.
 
-
-## Getting Started
-
-1. Download or clone the repo: `git clone https://github.com/curiositry/EEGrunt`
-2. Run `sudo bash install_linux_dependencies.sh` (tell me if this doesn’t work)
-3. Take a look in `analyze_data.py` and edit at will, or create your own script using `EEGrunt.py`. **Make sure to set the required variables — device, path, and filename.**
-4. Run it: `python analyze_data.py`
-5. [Read the announcement post for the official tutorial!][1]
-6. [Optional] Interested in [analyzing ECG  data with EEGrunt][2]? Take a look at the [new tutorial][2].
-
-[1]: http://www.autodidacts.io/eegrunt-open-source-python-eeg-analysis-utilities/
-[2]: http://www.autodidacts.io/analyze-ecg-heart-rate-and-hrv-with-python-and-eegrunt/
+ 
