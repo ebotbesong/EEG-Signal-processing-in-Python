@@ -9,7 +9,7 @@ Working with EEG (electroencephalography) data is hard, and this little library 
  <img width="300" src="./Figure 2020-09-08 163519.png"></p>
  <br/>
   <p align="center">
- <img width="300" src="./Figure 2020-09-08 163539.jpeg after Experimet.png"></p>
+ <img width="300" src="./Figure 2020-09-08 163539.png"></p>
  <br />
  
  <p align="center">
